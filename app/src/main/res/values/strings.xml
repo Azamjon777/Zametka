@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Codial homework</string>
+    <string name="textview">textview</string>
+    <string name="add_plant">add_plant</string>
+</resources>
